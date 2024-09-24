@@ -44,4 +44,3 @@ def show_predict():
         </div>
     """, unsafe_allow_html=True)
 
-quero q vc coloque verificação se n for noticia vc coloque aviso dizendo q modelo so prver noticias , tipo se pessoa digia "eu" isso n e noticia
